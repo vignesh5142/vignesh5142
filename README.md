@@ -13,7 +13,7 @@
 <ul>
   <li>🔭 Currently working on <strong>modern, responsive web applications</strong>.</li>
   <li>🌱 Exploring <strong>React.js</strong>, <strong>Node.js</strong>, and <strong>Tailwind CSS</strong>.</li>
-  <li>📫 Reach me at: <a href="mailto:vigneshm5142@gmail.com">vignesh5142@gmail.com</a></li>
+  <li>📫 Reach me at: <a href="mailto:vigneshm5142@gmail.com">vigneshm5142@gmail.com</a></li>
   <li>⚡ Fun fact: I turn coffee ☕ into code 💻.</li>
 </ul>
 
