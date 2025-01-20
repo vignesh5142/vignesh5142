@@ -13,7 +13,7 @@
 <ul>
   <li>🔭 Currently working on <strong>modern, responsive web applications</strong>.</li>
   <li>🌱 Exploring <strong>React.js</strong>, <strong>Node.js</strong>, and <strong>Tailwind CSS</strong>.</li>
-  <li>📫 Reach me at: <a href="mailto:vignesh5142@gmail.com">vignesh5142@gmail.com</a></li>
+  <li>📫 Reach me at: <a href="mailto:vigneshm5142@gmail.com">vignesh5142@gmail.com</a></li>
   <li>⚡ Fun fact: I turn coffee ☕ into code 💻.</li>
 </ul>
 
@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/vignesh-m-2b9664216/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:vignesh5142@gmail.com" target="_blank">
+  <a href="mailto:vigneshm5142@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/vignesh5142" target="_blank">
