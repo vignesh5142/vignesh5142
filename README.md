@@ -5,11 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=vignesh5142&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<div align="center">
-  <a href="https://github.com/vignesh5142">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh5142&theme=blue-green" alt="GitHub Streak Stats" />
-  </a>
-</div>
+
 
 ---
 
